@@ -1,0 +1,22 @@
+export const Header = [
+    {
+        "id":1,
+        "name":"Product",
+    },
+    {
+        "id":2,
+        "name":"Description",
+    },
+    {
+        "id":3,
+        "name":"Quantity",
+    },
+    {
+        "id":4,
+        "name":"Price",
+    },
+    {
+        "id":5,
+        "name":"Remove",
+    }
+]
